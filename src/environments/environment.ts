@@ -1,3 +1,8 @@
+// export const environment = {
+//   apiUrl: 'https://localhost:7295/api'
+// };
+
 export const environment = {
-  apiUrl: 'https://localhost:7295/api'
+  production: true,
+  apiUrl: 'https://bike-repair-ai-api.runasp.net'
 };
