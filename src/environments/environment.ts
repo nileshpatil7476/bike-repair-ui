@@ -4,5 +4,5 @@
 
 export const environment = {
   production: true,
-  apiUrl: 'http://bike-repair-ai-api.runasp.net/api'
+  apiUrl: 'https://bike-repair-ai-api.runasp.net/api'
 };
